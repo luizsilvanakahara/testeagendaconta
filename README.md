@@ -35,7 +35,7 @@ Independencia da troca de Front ou troca de banco de dados.
 
 
     #ferramentas utilizadas
-    Eclipse for J2EE 2024, Maven 3.9.2 H2, Angular 5.Java 10 e JPA.
+    Eclipse for J2EE 2024, Maven 3.9.2 H2, Angular 5.Java 11 e JPA.
     
     # instruções para a subida do projeto.
 npm start 
